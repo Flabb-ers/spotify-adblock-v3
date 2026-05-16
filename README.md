@@ -1,5 +1,3 @@
-![Spotify-Premium](https://excrack.com/wp-content/uploads/2020/05/Spotify-Premium-8.5.57.1164-Cracked-APK-Mod-2020-Latest.png)
-
 # Spotify Mod Chrome Plugin
 
 > **Update**: Now fully compatible with Chrome **Manifest V3**! 🚀
