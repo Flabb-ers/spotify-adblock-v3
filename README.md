@@ -18,6 +18,4 @@
 3. Make sure **Developer mode** (in the upper right corner) is **ON**.
 4. Click **Load unpacked** and select the folder containing this repo (or drag & drop the folder).
 5. Open [Spotify Web](https://open.spotify.com).
-6. *(Optional)* Open Chrome menu: `Options > More Tools > Create Shortcut...`
-7. Check `Open as window` & hit Create.
-8. Open Spotify as a standalone App!
+
